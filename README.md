@@ -47,3 +47,6 @@ This example generates a 4k image with red as the primary channel.
 $ mdbrot 3840 2160 mandelbrot.png
 ```
 
+## License
+
+[MIT](https://github.com/vilfa/mdbrot/blob/master/LICENSE)
